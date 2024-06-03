@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Katie</h1>
-<h3 align="center">A University of York student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katie291100&label=Profile%20views&color=0e75b6&style=flat" alt="katie291100" /> </p>
 
